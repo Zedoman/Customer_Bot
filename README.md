@@ -1,6 +1,6 @@
 ## Customer Bot
 
-[SwiftSupport](#) - A Real-Time AI-Powered Chatbot for Customer Support
+[SwiftSupport](https://customer-bot-three.vercel.app/) - A Real-Time AI-Powered Chatbot for Customer Support
 
 This Customer Support Chatbot is designed to assist businesses in providing AI-driven customer service. It leverages the Google Generative AI model via CopilotKit to handle customer queries in real-time, offering automated and intelligent responses.
 
@@ -20,7 +20,7 @@ This Customer Support Chatbot is designed to assist businesses in providing AI-d
 
 ## App Link
 
-- [SwiftSupport Live Demo](https://event-planner-gfex.vercel.app/)
+- [SwiftSupport Live Demo](https://customer-bot-three.vercel.app/)
 - [Repo](https://github.com/Zedoman/Customer_Bot)
 
 ## Bonus Points

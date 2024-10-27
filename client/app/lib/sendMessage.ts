@@ -18,7 +18,7 @@ export const sendMessage = async (
   setIsLoading(true); // Set loading to true before sending the request
 
   try {
-    const response = await axios.post('http://localhost:5000/api/chat', { message: input });
+    const response = await axios.post('https://customer-bot-fqjn.onrender.com/api/chat', { message: input });
 
     if (response.data && response.data.message) {
       const botMessage: Message = { role: 'assistant', content: response.data.message };
